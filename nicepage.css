@@ -21583,6 +21583,10 @@ a.pswp__share--download:hover {
   
   --animation-custom_in-translate_y: -50% !important;
 }
+.u-animation-sticky {
+  position: sticky;
+  top: 0;
+}
 .u-cookies-consent {
   display: none;
   position: fixed;
@@ -42577,7 +42581,11 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-nav-2 {
   font-size: 1rem;
 }
-
+@media (max-width: 1199px) {
+  .u-header .u-menu-1 {
+    margin-top: 0;
+  }
+}
 
 @media (max-width: 767px) {
   .u-header .u-text-1 {
