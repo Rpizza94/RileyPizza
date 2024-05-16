@@ -55,13 +55,13 @@
 }
 
 .u-section-2 .u-text-1 {
-  margin: 20px 50px 0 auto;
+  margin: 19px 1px 0;
 }
 
 .u-section-2 .u-image-1 {
   width: 521px;
   height: 300px;
-  margin: -586px auto 60px 248px;
+  margin: -585px auto 285px 248px;
 }
 
 @media (max-width: 991px) {
@@ -73,6 +73,7 @@
 @media (max-width: 767px) {
   .u-section-2 .u-text-1 {
     margin-right: 0;
+    margin-left: 0;
   }
 
   .u-section-2 .u-image-1 {
