@@ -304,7 +304,7 @@
   font-size: 1.875rem;
   margin: 20px auto 60px;
 }.u-section-4 .u-sheet-1 {
-  min-height: 914px;
+  min-height: 891px;
 }
 
 .u-section-4 .u-text-1 {
@@ -316,7 +316,7 @@
 
 .u-section-4 .u-accordion-1 {
   width: 800px;
-  margin: 17px auto 0;
+  margin: 17px auto;
 }
 
 .u-section-4 .u-accordion-link-1 {
@@ -329,7 +329,7 @@
 }
 
 .u-section-4 .u-accordion-pane-1 {
-  min-height: 693px;
+  min-height: 620px;
   background-image: none;
   height: auto;
 }
@@ -390,20 +390,20 @@
 }
 
 .u-section-4 .u-accordion-pane-2 {
-  min-height: 693px;
+  min-height: 620px;
   background-image: none;
   height: auto;
 }
 
 .u-section-4 .u-container-layout-2 {
-  padding: 30px 0;
+  padding: 3px 0;
 }
 
 .u-section-4 .u-text-4 {
   font-weight: 700;
   font-style: italic;
   font-size: 1rem;
-  margin: 11px 30px 0;
+  margin: 38px 30px 0;
 }
 
 .u-section-4 .u-text-5 {
@@ -460,7 +460,7 @@
 .u-section-4 .u-btn-13 {
   background-image: none;
   font-size: 1rem;
-  margin: -25px auto 0 30px;
+  margin: -26px auto -27px 30px;
   padding: 0;
 }
 
