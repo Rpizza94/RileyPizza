@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/13cbc23dfb5f44077d980a8ddad9079db846727a958f494a168a7353d9fcfd18bf2da41d671dc748195a7d8bcd7e9e566e0ee3960fb2d54ec23f5b_1280.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('images/13cbc23dfb5f44077d980a8ddad9079db846727a958f494a168a7353d9fcfd18bf2da41d671dc748195a7d8bcd7e9e566e0ee3960fb2d54ec23f5b_1280.jpg');
   background-position: 50% 50%;
 }
 
@@ -87,6 +87,7 @@
 .u-section-3 .u-image-1 {
   min-height: 413px;
   background-image: url("images/methods2.png");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -127,7 +128,6 @@
 
   .u-section-3 .u-image-1 {
     min-height: 341px;
-    background-position: 50% 50%;
   }
 
   .u-section-3 .u-layout-cell-2 {
@@ -377,6 +377,7 @@
 }
 
 .u-section-5 .u-text-2 {
+  font-size: 1.25rem;
   margin: 27px 0 0;
 }
 
@@ -389,6 +390,7 @@
 }
 
 .u-section-5 .u-text-3 {
+  font-size: 1.25rem;
   margin: 68px 84px 0 36px;
 }
 
@@ -521,6 +523,14 @@
   .u-section-5 .u-container-layout-2 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  .u-section-5 .u-text-2 {
+    font-size: 1rem;
+  }
+
+  .u-section-5 .u-text-3 {
+    font-size: 1rem;
   }
 
   .u-section-5 .u-layout-cell-4 {
