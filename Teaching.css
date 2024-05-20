@@ -320,12 +320,12 @@
   font-weight: 700;
   font-size: 1.875rem;
   width: 480px;
-  margin: 17px auto 0;
+  margin: 60px auto 0;
 }
 
 .u-section-5 .u-accordion-1 {
   width: 800px;
-  margin: 17px auto;
+  margin: 17px auto 60px;
 }
 
 .u-section-5 .u-accordion-link-1 {
@@ -338,7 +338,7 @@
 }
 
 .u-section-5 .u-accordion-pane-1 {
-  min-height: 620px;
+  min-height: 618px;
   background-image: none;
   height: auto;
 }
@@ -399,7 +399,7 @@
 }
 
 .u-section-5 .u-accordion-pane-2 {
-  min-height: 620px;
+  min-height: 618px;
   background-image: none;
   height: auto;
 }
