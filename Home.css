@@ -1,10 +1,10 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 425px;
+  min-height: 352px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin-top: 60px;
-  margin-bottom: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .u-section-1 .u-layout-cell-1 {
@@ -114,28 +114,28 @@
     font-size: 1.875rem;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 783px;
+  min-height: 710px;
 }
 
 .u-section-2 .u-text-1 {
   font-size: 3rem;
-  margin: 11px auto 0 499px;
+  margin: 0 484px 0 499px;
 }
 
 .u-section-2 .u-blog-1 {
-  margin-top: 11px;
-  margin-bottom: -8px;
+  margin-top: 0;
+  margin-bottom: 13px;
 }
 
 .u-section-2 .u-repeater-1 {
   grid-auto-columns: calc(33.3333% - 6.66667px);
   grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
-  grid-gap: 10px 10px;
-  min-height: 712px;
+  min-height: 639px;
+  grid-gap: 10px;
 }
 
 .u-section-2 .u-container-layout-1 {
-  padding: 30px 30px 23px;
+  padding: 30px 30px 14px;
 }
 
 .u-section-2 .u-text-2 {
@@ -216,7 +216,7 @@
 }
 
 .u-section-2 .u-container-layout-5 {
-  padding: 30px 30px 23px;
+  padding: 30px 30px 14px;
 }
 
 .u-section-2 .u-text-10 {
@@ -312,14 +312,17 @@
 
 .u-section-2 .u-gallery-nav-2 {
   position: absolute;
-  right: 10px;
   width: 40px;
   height: 40px;
+  left: auto;
+  top: 301px;
+  right: 10px;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-text-1 {
     margin-top: 86px;
+    margin-right: 384px;
     margin-left: 411px;
   }
 
@@ -377,6 +380,7 @@
 @media (max-width: 991px) {
   .u-section-2 .u-text-1 {
     margin-top: 30px;
+    margin-right: 274px;
     margin-left: 315px;
   }
 
@@ -394,13 +398,14 @@
 @media (max-width: 767px) {
   .u-section-2 .u-text-1 {
     font-size: 1.875rem;
-    margin-top: 11px;
+    margin-top: 0;
+    margin-right: 184px;
     margin-left: 236px;
   }
 
   .u-section-2 .u-blog-1 {
     margin-top: 32px;
-    margin-bottom: -8px;
+    margin-bottom: 13px;
   }
 
   .u-section-2 .u-repeater-1 {
@@ -452,6 +457,7 @@
 @media (max-width: 575px) {
   .u-section-2 .u-text-1 {
     font-size: 1.5rem;
+    margin-right: 84px;
     margin-left: 149px;
   }
 
